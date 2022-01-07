@@ -1,0 +1,8 @@
+{
+  "name": "json-table-format-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Clay Dunston <dunstontc@gmail.com>",
+  "license": "MIT"
+}
